@@ -7,7 +7,6 @@ void russia(){
     cout<<"you are in russia"<<endl;
 }
 int main(){
-    cout<<"golu ji"<<endl;
     delhi();
     russia();
 }
